@@ -1,0 +1,30 @@
+User Overview - Statistics relating to all users in task_manager.py
+
+Total Users:		3
+Total Tasks:		3
+----------------------------------------------------
+User:					admin
+User Tasks:				1
+Portion Total Tasks:	33%
+Portion Completed:		0%
+Portion Incomplete:		100%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					Emma
+User Tasks:				1
+Portion Total Tasks:	33%
+Portion Completed:		100%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					Tom
+User Tasks:				1
+Portion Total Tasks:	33%
+Portion Completed:		100%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
